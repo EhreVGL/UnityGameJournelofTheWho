@@ -11,8 +11,7 @@ Sonuç olarak ortaya çıkardığım 5-10 dakikalık kısa bir 2D top-down shoot
 
 0. [Herkese Selamlar](#herkese-selamlar)
 1. [Uygulama Hakkında](#uygulama-hakkında)
-2. [Yüklenmesi Gereken Kütüphaneler](#yuklenmesi-gereken-kutuphaneler)
-3. [Youtube Linki](#youtube-linki)
+2. [Youtube Linki](#youtube-linki)
 
 ## Uygulama Hakkında
 
