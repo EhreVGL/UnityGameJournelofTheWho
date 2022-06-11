@@ -1,4 +1,4 @@
-# UnityGameJournelofTheWho - Unity Uygulaması
+# UnityGameJourneyofTheWho - Unity Uygulaması
 
 ## Herkese Selamlar
 
