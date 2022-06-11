@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 0d843a19f86bdcb4c9161799352ba0bd
+  - enabled: 1
+    path: Assets/Scenes/Levels/Scene1Level1.unity
+    guid: 0cfdfa0056767a74fbff0524bea8d00f
+  - enabled: 1
+    path: Assets/Scenes/LevelSwitchs/SwitchS1L1-S1L2.unity
+    guid: ffd5692af6b3e3f44ad8657308fc45eb
+  - enabled: 1
+    path: Assets/Scenes/Levels/Scene1Level2.unity
+    guid: e4be18a3f0bbe574795ee9dd0ede78ff
+  - enabled: 1
+    path: Assets/Scenes/LevelSwitchs/SwitchS1L2-S1L3.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Levels/Scene1Level3.unity
+    guid: dfd2d0a6706bf644fa3d5035a387c721
+  - enabled: 1
+    path: Assets/Scenes/LevelSwitchs/SwitchS1L3-S1L4.unity
+    guid: f7781fce6c1e7214bab80343f96a11d1
+  - enabled: 1
+    path: Assets/Scenes/Levels/Scene1Level4.unity
+    guid: 4fffb8263d092b24d960d3e8daf85845
+  - enabled: 1
+    path: Assets/Scenes/LevelSwitchs/SwitchS1L4-BossArena.unity
+    guid: 8894643dae35f6d4f859785b7be34b51
+  - enabled: 1
+    path: Assets/Scenes/Levels/BossArena.unity
+    guid: be0579bbd25643541b3ab40c9cad37b7
+  - enabled: 1
+    path: Assets/Scenes/LevelSwitchs/End.unity
+    guid: 1fd7ef215651e3e4886f75d73d3bbeb7
+  m_configObjects: {}
